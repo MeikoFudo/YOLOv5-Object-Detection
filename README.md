@@ -1,5 +1,3 @@
-# YOLOv5-Object-Detection
-
 # YOLOv5 Object Detection and Real-Time Tracking
 
 Этот репозиторий содержит проект для обнаружения объектов с использованием YOLOv5 и отслеживания в реальном времени с помощью DeepSort. Проект разделен на две основные части:
